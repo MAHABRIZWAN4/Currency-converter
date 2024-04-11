@@ -1,5 +1,5 @@
 import inquirer from "inquirer";
-let welcome: string = "WELCOME TO MY CURRENCY CONVERTER PROJECT=>";
+let welcome: string = "WELCOME TO MY CURRENCY CONVERTER PROJECT";
 console.log(welcome);
 
 const currency: any = {
