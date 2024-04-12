@@ -1,5 +1,6 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
-let welcome = "WELCOME TO MY CURRENCY CONVERTER PROJECT";
+let welcome = "WELCOME TO MY CURRENCY CONVERTER PROJECT =>";
 console.log(welcome);
 const currency = {
     "United State Dollar (USD)": 1,
