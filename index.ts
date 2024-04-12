@@ -1,5 +1,6 @@
 #! /usr/bin/env node
 import inquirer from "inquirer";
+
 let welcome: string = "WELCOME TO MY CURRENCY CONVERTER PROJECT =>";
 console.log(welcome);
 
